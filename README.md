@@ -9,6 +9,7 @@ Data storage difficulties - Hard to retrieve and analyze historical data
 Limited scalability - Cannot handle large volumes efficiently
 Slower feedback - Delays in providing results to learners
 Environmental concerns - Paper waste and storage requirements
+
 1.2 Solution Approach
 The Quiz Management System addresses these challenges by offering an automated, digital platform that handles:
 Question bank management
