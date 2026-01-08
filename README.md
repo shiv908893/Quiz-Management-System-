@@ -2,6 +2,7 @@
 The Quiz Management System (QMS) is a Python-based command-line application designed to automate quiz administration, question management, and performance evaluation. Built using Python 3 and SQLite database, this system demonstrates a modular, scalable approach to replacing traditional paper-based assessment methods with an efficient digital solution.
 
 1. Introduction & Background
+
 1.1 Context
 In modern educational and training contexts, assessment plays a critical role in verifying knowledge and learning outcomes. Traditional paper-based quizzes suffer from several limitations:
 Manual result processing - Time-consuming and error-prone
